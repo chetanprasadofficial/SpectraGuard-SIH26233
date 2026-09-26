@@ -63,7 +63,7 @@ This is an **idea-stage submission** for SIH 2026. We have not yet built the phy
 
 ## Team CROWNX
 
-- [Your Name] — CSE
+- CHETAN PRASAD — CSE
 - [Teammate 2] — CSE
 - [Teammate 3] — Electronics
 - [Teammate 4] — Electronics
