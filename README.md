@@ -64,11 +64,11 @@ This is an **idea-stage submission** for SIH 2026. We have not yet built the phy
 ## Team CROWNX
 
 - CHETAN PRASAD — CSE
-- [Teammate 2] — CSE
-- [Teammate 3] — Electronics
-- [Teammate 4] — Electronics
-- [Teammate 5] — Electronics
-- [Teammate 6] — Electronics
+- AYUSH RANJAN — Electronics
+- PRATIK RAJ — Electronics
+- SAPNA KUMARI — Electronics
+- SONALI KUMARI — Electronics
+- CHANDAN SINGH BIST — CSE
 
 ## License
 
