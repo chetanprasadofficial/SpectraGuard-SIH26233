@@ -52,9 +52,7 @@ SCAN → DETECT → FLAG → SORT → LOG → REPORT
 ├── hardware/
 │   └── BOM.md                    ← bill of materials for the sensor rig
 ├── docs/
-│   └── architecture.md           ← system architecture & data flow notes
-└── presentation/
-    └── (SIH idea presentation PDF/PPTX goes here)
+    └── architecture.md           ← system architecture & data flow notes
 ```
 
 ## Status
